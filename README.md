@@ -11,4 +11,4 @@ The organization of the films on the Criterion Channel website is not perfect, s
 
 [Technical notebook](Webscraping.ipynb)
 
-[Data folder](data)
+[CSV of scraped data](data/Criterion.csv)
