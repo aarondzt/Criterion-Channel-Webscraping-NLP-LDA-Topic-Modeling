@@ -10,11 +10,9 @@ The organization of the films on the Criterion Channel website is not perfect, s
 
 ## Project Info
 ### Files
-[Data source](https://films.criterionchannel.com)
-
-[Technical notebook](Webscraping.ipynb)
-
-[CSV of scraped data](data/Criterion.csv)
+* [Data source](https://films.criterionchannel.com)
+* [Technical notebook](Webscraping.ipynb)
+* [CSV of scraped data](data/Criterion.csv)
 
 <pre>
 Contributors : <a href=https://github.com/aarondzt>Aaron Tan</a>
