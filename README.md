@@ -23,7 +23,7 @@ Contributors : <a href=https://github.com/aarondzt>Aaron Tan</a>
 <pre>
 Languages    : Python
 Tools/IDE    : Anaconda
-Libraries    : pandas, BeautifulSoup
+Libraries    : numpy, pandas, requests, BeautifulSoup, matplotlib, seaborn
 </pre>
 
 <pre>
