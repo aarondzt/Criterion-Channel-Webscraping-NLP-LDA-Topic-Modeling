@@ -8,9 +8,27 @@ Update: I tried to run the code again and it didn't work. It turns out the Crite
 ## Limitations and Future Directions
 The organization of the films on the Criterion Channel website is not perfect, so there are some minor errors in the data that I scraped that probably need to be manually corrected. In the future, I would be interested in combining this dataset with a dataset of audience/critic ratings. I could then use this combined dataset to guide my own selection of films to watch.
 
-## Files
+## Project Info
+### Files
 [Data source](https://films.criterionchannel.com)
 
 [Technical notebook](Webscraping.ipynb)
 
 [CSV of scraped data](data/Criterion.csv)
+
+<pre>
+Contributors : <a href=https://github.com/aarondzt>Aaron Tan</a>
+</pre>
+
+<pre>
+Languages    : Python
+Tools/IDE    : Anaconda
+Libraries    : pandas, BeautifulSoup
+</pre>
+
+<pre>
+Duration     : October 2020
+Last Update  : 10.02.2020
+</pre>
+
+
