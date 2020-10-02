@@ -1,4 +1,9 @@
 # Webscraping the Criterion Channel Collection
+
+### Contents
+* [Data source](https://films.criterionchannel.com)
+* [Technical notebook](Webscraping.ipynb)
+* [CSV of scraped data](data/Criterion.csv)
  
 ## Summary
 For this project, I decided to use the Criterion Channel Collection for a webscraping exercise. The Criterion Channel is a streaming service like Netflix, but for the classic films inducted into the Criterion Collection. 
@@ -15,11 +20,6 @@ Update: I tried to run the code again and it didn't work. It turns out the Crite
 The organization of the films on the Criterion Channel website is not perfect, so there are some minor errors in the data that I scraped that probably need to be manually corrected. In the future, I would be interested in combining this dataset with a dataset of audience/critic ratings. I could then use this combined dataset to guide my own selection of films to watch.
 
 ## Project Info
-### Files
-* [Data source](https://films.criterionchannel.com)
-* [Technical notebook](Webscraping.ipynb)
-* [CSV of scraped data](data/Criterion.csv)
-
 <pre>
 Contributors : <a href=https://github.com/aarondzt>Aaron Tan</a>
 </pre>
