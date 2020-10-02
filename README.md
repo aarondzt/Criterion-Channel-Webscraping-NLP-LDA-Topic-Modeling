@@ -1,6 +1,6 @@
 # Webscraping the Criterion Channel Collection
 
-### Contents
+## Contents
 * [Data source](https://films.criterionchannel.com)
 * [Technical notebook](Webscraping.ipynb)
 * [CSV of scraped data](data/Criterion.csv)
